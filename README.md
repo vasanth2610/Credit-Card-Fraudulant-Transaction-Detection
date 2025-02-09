@@ -18,8 +18,8 @@ This project implements a credit card fraud detection system using Logistic Regr
 ## Installation
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/credit-fraud-detection.git
-   cd credit-fraud-detection
+   git clone https://github.com/vasanth2610/Credit-Card-Fraudulant-Transaction-Detection.git
+   cd Credit-Card-Fraudulant-Transaction-Detection
    ```
 
 2. **Install dependencies**
